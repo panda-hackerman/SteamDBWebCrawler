@@ -9,6 +9,10 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Map;
 
+/**
+ * This is just things that I don't have permission to share (SteamDB api stuff).
+ * I didn't actually end up using it, but maybe it will be useful in the future.
+ */
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class Hidden {
 

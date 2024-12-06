@@ -24,6 +24,9 @@ import org.jsoup.Jsoup;
 /**
  * This code sucks ass, I know, but I don't plan on ever maintaining it once I get the files I need,
  * sorry. I don't have time to write less code.
+ * By the way, you get the list of all games using:
+ * <a href="https://steamapi.xpaw.me/#IStoreService/GetAppList">https://api.steampowered.com/IStoreService/GetAppList/v1/?key=YOURKEYHERE</a>
+ * @author Eli Michaud
  */
 public class Main {
 
